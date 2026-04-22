@@ -37,7 +37,8 @@ coordinates. It handles the movement logic and collision detection.
 handles the 'random walk' logic independently of the player.
 *gamemap (Association)*: A 2D String array that represents the physical space. The entities
 associate with this map by passing it as a parameter to their movement functions.
-<img width="843" height="524" alt="Screenshot 2026-04-20 223021" src="https://github.com/user-attachments/assets/0516ba10-41df-4660-b471-8cf3763f6ceb" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-04-21 at 9 00 02 PM" src="https://github.com/user-attachments/assets/5c9c3669-474c-4287-9a1e-138d82312bfa" />
+
 
 ## Flow Diagram
 <img width="410" height="186" alt="Screenshot 2026-04-20 223028" src="https://github.com/user-attachments/assets/399bc416-cfbb-43f6-aeeb-ab90f6482096" />
